@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Keyboard Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
+    <string name="enter_password">Enter a password</string>
+</resources>
